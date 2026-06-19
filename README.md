@@ -71,7 +71,6 @@ Customer churn is a major challenge for subscription-based businesses because it
 ## Files Included
 
 - Customer Retention Churn Dashboard (.xlsx)
-- Business Report (.pdf)
 - Dashboard Screenshot
 - Telco Customer Churn Dataset
 
